@@ -921,6 +921,8 @@ MonoBehaviour:
   m_ButtonG: {fileID: 1491126414}
   m_ButtonB: {fileID: 1012006447}
   m_MeshRenderer: {fileID: 1137960847}
+  m_RotateSpeed: 5
+  m_ZoomSpeed: 1000
 --- !u!4 &1555800045
 Transform:
   m_ObjectHideFlags: 0
